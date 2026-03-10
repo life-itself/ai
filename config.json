@@ -1,0 +1,26 @@
+{
+  "title": "AI Sensemaking",
+  "description": "Making sense of AI. What will it mean for our society and economy? What will it mean for humanity and the living?",
+  "theme": "lessflowery",
+  "showEditLink": true,
+  "nav": {
+    "logo": "\ud83e\uddf6",
+    "title": "AI Sensemaking",
+    "links": [
+      {
+        "href": "/about",
+        "name": "About"
+      }
+    ],
+    "social": [
+      {
+        "label": "github",
+        "href": "https://github.com/life-itself/ai"
+      },
+      {
+        "label": "youtube",
+        "href": "https://youtube.com/@forlifeitself"
+      }
+    ]
+  }
+}
